@@ -30,7 +30,7 @@ We will be looking at how to analyze the same data:
     <p class="symbol">&#10042;</p>
 </div>
 
-## Media
+## Media and Metadata
 
 I will be using one set of media with (almost) all of the different platforms and methods we will be looking at today so we can identify which ways of looking at data work best for what material. All relating to the United States women’s suffrage movement, we have:
 
@@ -53,6 +53,8 @@ I will be using one set of media with (almost) all of the different platforms an
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
 </div>
+
+{% include gallery-figure.html img="full_metadata.jpg" width="100%" alt="Four lines of metadata in a spreadsheet." caption="Full metadata for these four items" %}
 
 Crucially, we also have the [full, formatted metadata here](https://docs.google.com/spreadsheets/d/1k8SrXjujlqHBO4NzwaPYcKKLIp7WjYh47esJwrv3Uzg/edit?usp=sharing)  on Google Sheets that we will be using selectively with all of the platforms today, beginning with Timeline.js.
 
