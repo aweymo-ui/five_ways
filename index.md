@@ -4,7 +4,7 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="banner.gif" alt="Title card with a photo of the author and an image fading betweeen an archival photo and a Google Map 3D rendering of the Rowena Loops Overlook in Oregon" caption="Presentation Transcript and Slides for the 2024 U of I Information Landscape Series" title="Presentation Transcript and Slides for the 2024 U of I Information Landscape Series" %}
+{% include gallery-figure.html img="banner.gif" alt="Title card with a photo of the author animation of data being visualized chronologically, geographically, audibly, relationally and narratively." caption="Presentation Transcript and Slides for Alyssa Kreikemeier's HIST320 course, Fall 2024" title="Presenting Research in Five Ways to Increase Understanding and Uncover Connections" %}
 
 * [slides](https://indd.adobe.com/view/dd70d5ef-b9b2-46cf-a866-60f524ff37e3)
 
