@@ -1,6 +1,6 @@
 ---
-title: Geological
-nav: Geological
+title: Geographic
+nav: Geographic
 gallery: true
 ---
 
