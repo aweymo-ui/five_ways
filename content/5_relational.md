@@ -6,10 +6,6 @@ gallery: true
 
 **In both this section and the next one** we will be working with different iterations of a platform called [CollectionBuilder](https://collectionbuilder.github.io/) that was created here by the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/) at the U of I library. Going from most lightweight to more technically advanced, there is **CollectionBuilder Sheets**, **CollectionBuilder-GH** (which stands for GitHub) and **CollectionBuilder CSV**, like the file type. To view our items relationally, letting the reader compare and contrast the differences between items and their varying metadata, we are going to build a simple database using Sheets.
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
 - First, you will need to create an account with **GitHub**, a cloud-based platform that allows developers to store, share and collaborate on code (but don’t worry, this doesn’t require doing any coding). 
 
 - Next visit the [cb-sheets repository page](https://github.com/CollectionBuilder/collectionbuilder-sheets) and select `Use this Template` and then the `Create a New Repository` dropdown option.
@@ -44,13 +40,13 @@ metadata-csv: hist320
 
 - Then change the style formatting of the site in the **theme.yml** file, add a banner image and customize navigation as I have here
 
-- **Finally**, go to the repository settings in Git, deploy from the main branch and your site should be live. Moving forward, with every new commit that you make, the site will rebuild itself to incorporate those changes.
-
-{% include gallery-figure.html img="settings-pages-sheets.gif" width="100%" alt="Gif of the action to access the Settings and Pages sections of your repository from the GitHub browser" caption="How to access the Settings and Pages sections of your repository from the GitHub browser" %} 
-
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
 </div>
+
+- **Finally**, go to the repository settings in Git, deploy from the main branch and your site should be live. Moving forward, with every new commit that you make, the site will rebuild itself to incorporate those changes.
+
+{% include gallery-figure.html img="settings-pages-sheets.gif" width="100%" alt="Gif of the action to access the Settings and Pages sections of your repository from the GitHub browser" caption="How to access the Settings and Pages sections of your repository from the GitHub browser" %} 
 
 ## Output
 
@@ -59,6 +55,6 @@ Using our four media items, these actions produce the [following site](https://a
 <iframe src="https://aweymo-ui.github.io/hist320_sheets_approach/" width="100%" height="600px"></iframe>
 
 
-{% include feature/alert.html text="Note that you could also simply feature Collection-Builder’s own timeline and mapping functions instead of featuring these separately with the KnightLab platforms. " color="light" align="center" %}
+{% include feature/alert.html text="Note that all CollectionBuilder templates also feature a timeline and map interface, but they function in slightly different ways to the Knightlabs Timeline.js and Storymaps. Also note that there is a way to embed the Timeline.js feature in a CollectionBuilder site if you prefer it." color="light" align="center" %}
 
 Find the complete walkthrough for creating a site with Sheets [here](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/sheets-walkthrough/#sheets-walkthrough-part-2) (start with part two)

@@ -8,7 +8,13 @@ gallery: true
 
 {% include gallery-figure.html img="storymaps_interface.jpg" width="100%" alt="Digital interface displaying a map of Philadelphia, media and text boxes" caption="StoryMaps user interface." %} 
 
-Then you save and publish changes to update your document. You create StoryMaps using a Google account which is how you save and retrieve different projects. Here is the [resulting output](https://uploads.knightlab.com/storymapjs/3b7d4986759b711d6e3b4141f090575b/hist-320-storymap-example/index.html) of our four media items through the framework of StoryMaps:
+Then you save and publish changes to update your document. You create StoryMaps using a Google account which is how you save and retrieve different projects. 
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+Here is the [resulting output](https://uploads.knightlab.com/storymapjs/3b7d4986759b711d6e3b4141f090575b/hist-320-storymap-example/index.html) of our four media items through the framework of StoryMaps:
 
 <iframe src="https://uploads.knightlab.com/storymapjs/3b7d4986759b711d6e3b4141f090575b/hist-320-storymap-example/index.html" frameborder="0" width="100%" height="600"></iframe>
 

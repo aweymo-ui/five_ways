@@ -12,15 +12,15 @@ gallery: true
 
 > How far away can you be from a city’s residents so you are almost never considered, while still close enough to impact them environmentally or psychologically on a daily basis?
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
 As opposed to the last geographic approach, audio is also a great way to convey a sense of space and distance. At the time, I was living within walking distance of the detention center and one of the first things I did for the project was to take a handheld microphone and visit. I’d like to play an excerpt of this work and, while listening, think about way in which media is being either incorporated or translated to the audio format:
 
 {% include feature/audio.html objectid="/images/tideflats_excerpts.mp3" %}
 
 {% include feature/alert.html text="What were some of the different elements that you heard? What are the primary sources and what were other types of sources I was maybe narrating?" color="light" align="center" %}
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 In that recording, a summary of elements might be:
 
@@ -30,10 +30,6 @@ In that recording, a summary of elements might be:
 - Oral history recording
 - Sound clips (kendo sparring, streetcars)
 - Multiple documents, news articles and scholarly journal excerpts that I am weaving into the narration
-
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
 
 **One of the greatest strengths of presenting historical research in audio is immersion**. If you have a clear idea of the story you would like to present, you can structure things in compelling ways that draws in the listener and it is especially great if you happen to be working with oral history recordings, music history or recorded interviews where the incorporation of multiple voices will make something much more dynamic than words on a page. **The limitation**, of course, is that all visual elements need to be described in writing.
 
